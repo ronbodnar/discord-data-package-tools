@@ -2,14 +2,6 @@
 
 A collection of Python scripts to interact with Discord data packages. These scripts help extract and organize information from Discord data for further analysis.
 
-## Table of Contents
-
-- [Attachment Downloader](#attachment-downloader)
-- [Message Aggregator](#message-aggregator)
-- [Author](#author)
-- [License](#license)
-- [Important](#important)
-
 ## Attachment Downloader
 
 This script is used to download attachment files from Discord data packages.
