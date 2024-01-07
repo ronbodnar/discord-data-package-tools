@@ -21,10 +21,10 @@ This script is used to download attachment files from Discord data packages.
 ### Usage
 
 1. Place this script inside a directory containing the extracted "package" folder from Discord.
-   
-### Author
+2. Run the script.
 
-- [Ron Bodnar](https://github.com/ronbodnar)
+```bash
+python attachment_downloader.py
 
 ### How it Works
 
@@ -42,10 +42,10 @@ This script aggregates messages from the Discord data package into a single CSV 
 ### Usage
 
 1. Place this script inside a directory containing the extracted "package" folder from Discord.
-   
-### Author
+2. Run the script.
 
-- [Ron Bodnar](https://github.com/ronbodnar)
+```bash
+python message_aggregator.py
 
 ### How it Works
 
@@ -60,6 +60,10 @@ The script aggregates messages from multiple CSV files in the Discord package da
 
 - Python 3.x
 - Dependencies: `os`, `csv`, `requests` (for Attachment Downloader)
+
+## Author
+
+- [Ron Bodnar](https://github.com/ronbodnar)
 
 ## License
 
