@@ -57,7 +57,7 @@ The script aggregates messages from multiple CSV files in the Discord package da
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Important
 
