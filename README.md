@@ -6,12 +6,8 @@ A collection of Python scripts to interact with Discord data packages. These scr
 
 - [Attachment Downloader](#attachment-downloader)
 - [Message Aggregator](#message-aggregator)
-- [Usage](#usage)
-- [Authors](#authors)
+- [Author](#author)
 - [License](#license)
-- [How it Works](#how-it-works)
-- [Prerequisites](#prerequisites)
-- [Notes](#notes)
 - [Important](#important)
 
 ## Attachment Downloader
