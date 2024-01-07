@@ -24,7 +24,8 @@ This script is used to download attachment files from Discord data packages.
 2. Run the script.
 
 ```bash
-python attachment_downloader.py```
+python attachment_downloader.py
+```
 
 ### How it Works
 
@@ -45,7 +46,8 @@ This script aggregates messages from the Discord data package into a single CSV 
 2. Run the script.
 
 ```bash
-python message_aggregator.py```
+python message_aggregator.py
+```
 
 ### How it Works
 
